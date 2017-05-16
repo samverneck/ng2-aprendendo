@@ -1,3 +1,3 @@
-# ng2-login
+# ng2
 
-Praticando um pouco de Angular 2 criando um dashboard(painel) então é nois!
+Praticando um pouco de Angular 2!
